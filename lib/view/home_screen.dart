@@ -8,7 +8,7 @@ import 'package:flutter_alarm_app/view/Profile.dart';
 import 'package:flutter_alarm_app/view/SleepInfo.dart';
 import 'package:flutter_alarm_app/view/SleepNoise.dart';
 import 'package:provider/provider.dart';
-import 'package:flutter_alarm_app/view/BottomNav.dart';
+
 
 class HomeState extends State<HomeScreen> {
 
