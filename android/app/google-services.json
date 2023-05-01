@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "341292392692",
+    "project_id": "capstone-app2023",
+    "storage_bucket": "capstone-app2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341292392692:android:c25e3615d3472db0577ea1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_alarm_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341292392692-vig12c7usgmtpufknimsoslmsf3neb0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_OpV0dKYW1yMw0b_ocFlCOLiosUfIy_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341292392692-vig12c7usgmtpufknimsoslmsf3neb0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

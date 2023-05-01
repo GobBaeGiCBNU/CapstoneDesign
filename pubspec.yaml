@@ -40,6 +40,9 @@ dependencies:
   path_provider: ^2.0.10
   cupertino_icons: ^1.0.2
   json_annotation: ^4.5.0
+  cloud_firestore: ^4.5.3  # firebase 연동
+  firebase_core: ^2.10.0
+  firebase_auth: ^4.4.2
 
 dev_dependencies:
   flutter_test:
