@@ -48,8 +48,8 @@ android {
         applicationId "com.example.flutter_alarm_app"
         // You can update the following values to match your application needs.
         // For more information, see: https://docs.flutter.dev/deployment/android#reviewing-the-build-configuration.
-        minSdkVersion flutter.minSdkVersion
-        targetSdkVersion flutter.targetSdkVersion
+        minSdkVersion 19   // Error 나서 flutter.minSdkVersion > 19으로 고침
+        targetSdkVersion 28 // flutter.targetSdkVersion > 28
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
         multiDexEnabled true
